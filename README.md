@@ -1,4 +1,4 @@
-# CAN_Simulator
+# CAN_Simulator BMW 
 
 ![IMG_20240323_112200](https://github.com/MarekKud/CAN_Simulator/assets/92340461/4dddb1b8-8779-43d2-a2d7-4be988fd8d35)
 # PCB 
