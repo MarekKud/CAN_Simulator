@@ -1,5 +1,7 @@
 # CAN_Simulator
 # PCB 
+![IMG_20240323_112200](https://github.com/MarekKud/CAN_Simulator/assets/92340461/4dddb1b8-8779-43d2-a2d7-4be988fd8d35)
+
 
 ![CAN Simulator](https://github.com/MarekKud/CAN_Simulator/assets/92340461/7a7a2904-c1a2-4240-b012-de0be9defaab)
 # Pcb Transparent
